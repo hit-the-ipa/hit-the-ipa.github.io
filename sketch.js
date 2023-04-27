@@ -2,8 +2,8 @@ let bg;
 let ziele = [];
 let radius = 15;
 let punkte = 0;
-let hoch = 400;
-let breit = 650;
+let hoch = 250;
+let breit = 400;
 let level = 1;
 
 function preload() {
